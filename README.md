@@ -38,3 +38,12 @@ Interestingly, services such as Online security, streaming TV, online backup, te
 
 We will explore the patterns for the above correlations below before we delve into modelling and identifying the important variables.
 
+### Some plotting of churn with respect to tenure,monthly charges and Senior citization
+
+![image](https://user-images.githubusercontent.com/100334542/176259502-4bcf9069-6d23-40d8-9c12-5e1c35eba03a.png)
+
+
+![image](https://user-images.githubusercontent.com/100334542/176259561-1ba497de-a6ed-4b0b-9f35-d9faea1822c9.png)
+
+
+![image](https://user-images.githubusercontent.com/100334542/176259605-655a043c-1e32-45aa-942a-8dc5f7d885b3.png)
