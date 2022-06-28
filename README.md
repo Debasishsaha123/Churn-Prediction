@@ -47,3 +47,12 @@ We will explore the patterns for the above correlations below before we delve in
 
 
 ![image](https://user-images.githubusercontent.com/100334542/176259605-655a043c-1e32-45aa-942a-8dc5f7d885b3.png)
+
+##Accuracy of the model using variouus model
+
+1.Logistic Regression 👉👉👉👉  0.8038379530916845
+
+2.SVM 👉👉👉👉 0.8045486851457001
+
+3.ANN 👉👉👉👉 0.78
+
