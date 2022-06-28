@@ -6,3 +6,7 @@ Churn prediction means detecting which customers are likely to leave a service o
 
 ![image](https://user-images.githubusercontent.com/100334542/176241355-838a431d-9d2d-4225-bafc-03fca93d70d0.png)
 
+Data Exploration
+I have used the Telco Customer Churn dataset which is available on Kaggle 
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
