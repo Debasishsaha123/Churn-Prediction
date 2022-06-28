@@ -32,3 +32,8 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 ### Get Correlation of "Churn" with other variables
 ![download (3)](https://user-images.githubusercontent.com/100334542/176256931-0b13c3db-9ec9-4701-99ec-87fb995a971f.png)
 
+Month to month contracts, absence of online security and tech support seem to be positively correlated with churn. While, tenure, two year contracts seem to be negatively correlated with churn.
+
+Interestingly, services such as Online security, streaming TV, online backup, tech support, etc. without internet connection seem to be negatively related to churn.
+
+We will explore the patterns for the above correlations below before we delve into modelling and identifying the important variables.
