@@ -37,3 +37,4 @@ Month to month contracts, absence of online security and tech support seem to be
 Interestingly, services such as Online security, streaming TV, online backup, tech support, etc. without internet connection seem to be negatively related to churn.
 
 We will explore the patterns for the above correlations below before we delve into modelling and identifying the important variables.
+
