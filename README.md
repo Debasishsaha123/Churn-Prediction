@@ -62,3 +62,11 @@ We will explore the patterns for the above correlations below before we delve in
 
 3.ANN 👉👉👉👉 0.78
 
+## Conclusion
+
+We went through the various tasks involved in Churn prediction in this article. It is important to note that finding patterns in Exploratory Data Analysis (EDA) is as important as the final prediction itself.
+
+A Churn prediction task remains unfinished if the data patterns are not found in EDA. Most people can do the prediction part but struggle with data visualization and conveying the findings in an interesting way.
+
+This skill is not only limited to Churn prediction but will also help you in the solving of the usual data science problems.
+
