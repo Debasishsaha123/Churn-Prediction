@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Required Libaries
 
-1.Numpy
+1.[Numpy]{https://github.com/numpy/numpy}
 
 2.Pandas
 
