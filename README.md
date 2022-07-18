@@ -45,20 +45,20 @@ I have used the Telco Customer Churn dataset which is available on [Kaggle](http
 
 7.[Keras](https://github.com/keras-team/keras)
 
-![image](https://user-images.githubusercontent.com/100334542/178461214-dbaf8945-dfb9-4951-811f-929d1c030f2e.png)
-
 ### The data set includes information about:
 
-        ##### 1.Customers who left within the last month – the column is called Churn
+         1.Customers who left within the last month – the column is called Churn
 
-        ##### 2.Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and  
-        ##### streaming TV and movies
+         2.Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and  
+         streaming TV and movies
 
-        ##### 3.Customer account information - how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
+         3.Customer account information - how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 
-        ##### 4.Demographic info about customers – gender, age range, and if they have partners and dependents
+         4.Demographic info about customers – gender, age range, and if they have partners and dependents
         
 #### The target the we will use to guide the exploration is Churn
+
+
 
 ### Get Correlation of "Churn" with other variables
 ![download (3)](https://user-images.githubusercontent.com/100334542/176256931-0b13c3db-9ec9-4701-99ec-87fb995a971f.png)
