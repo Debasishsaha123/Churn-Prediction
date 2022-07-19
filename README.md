@@ -165,6 +165,8 @@ We will explore the patterns for the above correlations below before we delve in
 
 2.SVM 👉👉👉👉 0.8045486851457001
 
+3.RandomForest 👉👉👉👉 0.7938877043354655
+
 3.ANN 👉👉👉👉 0.78
 
 ## Conclusion
