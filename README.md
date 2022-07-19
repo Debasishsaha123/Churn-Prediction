@@ -1,7 +1,7 @@
 
 # Customer Churn Prediction
 
-### Did you know that attracting a new customer costs five times as much as keeping an existing one?
+### **Did you know that attracting a new customer costs five times as much as keeping an existing one?**
 
 ![0_0m_FbTEaOTxwddVk](https://user-images.githubusercontent.com/100334542/178119768-46e0460f-d10e-4a0a-bedc-b28a6a5afcb7.gif)
 
