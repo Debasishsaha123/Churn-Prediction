@@ -78,24 +78,16 @@ It can also be noted that the Tenure column is 0 for these entries even though t
  
  ![Screenshot (24)](https://user-images.githubusercontent.com/100334542/179711888-d5c22069-16c3-40c8-b026-d3514713fc1c.png)
 
-### Get Correlation of "Churn" with other variables
-
-![correlation (1)](https://user-images.githubusercontent.com/100334542/179714703-8390ace4-3acd-49b3-a4e1-e693b322a367.png)
-
-Month to month contracts, absence of online security and tech support seem to be positively correlated with churn. While, tenure, two year contracts seem to be negatively correlated with churn.
-
-Interestingly, services such as Online security, streaming TV, online backup, tech support, etc. without internet connection seem to be negatively related to churn.
-
-We will explore the patterns for the above correlations below before we delve into modelling and identifying the important variables.
 
 ## **Data Visualization**
 
 ![Screenshot (28)](https://user-images.githubusercontent.com/100334542/179717695-101c50fe-8363-43ec-b103-41384ee67790.png)
 
 1)26.6 % of customers switched to another firm.
+
 2)Customers are 49.5 % female and 50.5 % male.
 
-There is negligible difference in customer percentage/ count who chnaged the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider/firm.
+**There is negligible difference in customer percentage/ count who chnaged the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider/firm.**
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/100334542/179720151-e64f36d8-b1c6-4374-98a3-4d21e43e9af9.png)
 
@@ -105,17 +97,61 @@ There is negligible difference in customer percentage/ count who chnaged the ser
 
 ![newplot](https://user-images.githubusercontent.com/100334542/179721784-840cc1f2-5d5d-4d6e-80f2-cd52e1a74884.png)
 
-1.Major customers who moved out were having Electronic Check as Payment Method.
+**1.Major customers who moved out were having Electronic Check as Payment Method.
 
-2.Customers who opted for Credit-Card automatic transfer or Bank Automatic Transfer and Mailed Check as Payment Method were less likely to move out.
+2.Customers who opted for Credit-Card automatic transfer or Bank Automatic Transfer and Mailed Check as Payment Method were less likely to move out.**
 
-![image](https://user-images.githubusercontent.com/100334542/176259502-4bcf9069-6d23-40d8-9c12-5e1c35eba03a.png)
+![newplot (1)](https://user-images.githubusercontent.com/100334542/179723497-250aba85-c5f3-4b52-926f-04d7cf889526.png)
 
+**1)A lot of customers choose the Fiber optic service and it's also evident that the customers who use Fiber optic have high churn rate, this might suggest a dissatisfaction with this type of internet service.
+
+2)Customers having DSL service are majority in number and have less churn rate compared to Fibre optic service.**
+
+![newplot (2)](https://user-images.githubusercontent.com/100334542/179724626-f5578a72-5212-4466-b415-287030464efa.png)
+
+![newplot (3)](https://user-images.githubusercontent.com/100334542/179724761-695e202d-41aa-4e4f-ae5a-94e593db0348.png)
+
+**Customers without dependents are more likely to churn**
+
+**Customers that doesn't have partners are more likely to churn**
+
+![image](https://user-images.githubusercontent.com/100334542/179725120-20fc13be-4a40-4052-b8c4-9794d37bbace.png)
+
+**It can be observed that the fraction of senior citizen is very less.Most of the senior citizens churn.**
+
+![newplot (4)](https://user-images.githubusercontent.com/100334542/179725455-172774f8-651a-42db-986f-d7a71f92f9ad.png)
+
+**Most customers churn in the absence of online security.**
+
+![newplot (5)](https://user-images.githubusercontent.com/100334542/179726540-8ab17fe2-4b2d-4ce1-92ea-1e08768897f5.png)
+
+**Customers with Paperless Billing are most likely to churn.**
+
+![newplot (6)](https://user-images.githubusercontent.com/100334542/179726770-646d51cb-1cf1-4803-b1a0-63d391b05ba2.png)
+
+**Customers with no TechSupport are most likely to migrate to another service provider.**
+
+![newplot (7)](https://user-images.githubusercontent.com/100334542/179727000-6992b217-44eb-4df9-9468-e859be73164a.png)
+
+**Very small fraction of customers don't have a phone service and out of that, 1/3rd Customers are more likely to churn.**
 
 ![image](https://user-images.githubusercontent.com/100334542/176259561-1ba497de-a6ed-4b0b-9f35-d9faea1822c9.png)
 
+**Customers with higher Monthly Charges are also more likely to churn**
 
-![image](https://user-images.githubusercontent.com/100334542/176259605-655a043c-1e32-45aa-942a-8dc5f7d885b3.png)
+![image](https://user-images.githubusercontent.com/100334542/179727769-ac05cb3d-a853-41ce-b90b-85d9c813c0c3.png)
+
+**New customers are more likely to churn**
+
+### Get Correlation of "Churn" with other variables
+
+![correlation (1)](https://user-images.githubusercontent.com/100334542/179714703-8390ace4-3acd-49b3-a4e1-e693b322a367.png)
+
+Month to month contracts, absence of online security and tech support seem to be positively correlated with churn. While, tenure, two year contracts seem to be negatively correlated with churn.
+
+Interestingly, services such as Online security, streaming TV, online backup, tech support, etc. without internet connection seem to be negatively related to churn.
+
+We will explore the patterns for the above correlations below before we delve into modelling and identifying the important variables.
 
 ##Accuracy of the model using variouus model
 
