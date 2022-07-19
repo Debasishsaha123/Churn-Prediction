@@ -82,7 +82,8 @@ It can also be noted that the Tenure column is 0 for these entries even though t
 
 
 ### Get Correlation of "Churn" with other variables
-![download (3)](https://user-images.githubusercontent.com/100334542/176256931-0b13c3db-9ec9-4701-99ec-87fb995a971f.png)
+
+![correlation (1)](https://user-images.githubusercontent.com/100334542/179714703-8390ace4-3acd-49b3-a4e1-e693b322a367.png)
 
 Month to month contracts, absence of online security and tech support seem to be positively correlated with churn. While, tenure, two year contracts seem to be negatively correlated with churn.
 
