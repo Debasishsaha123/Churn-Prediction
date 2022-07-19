@@ -45,9 +45,9 @@ As a result, by addressing churn, these businesses may not only preserve their m
 
 I have used the Telco Customer Churn dataset which is available on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
-### The data set includes information about:
+![Screenshot (26)](https://user-images.githubusercontent.com/100334542/179712733-df224eef-761a-4a4b-80e3-01f1432687ae.png)
 
-![image](https://user-images.githubusercontent.com/100334542/179705384-62c233f3-bd3c-41c6-a799-8143c9843ef5.png)
+### The data set includes information about:
 
 **1.Customers who left within the last month** – the column is called Churn
 
