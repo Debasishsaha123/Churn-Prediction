@@ -3,7 +3,8 @@
 
 ### **Did you know that attracting a new customer costs five times as much as keeping an existing one?**
 
-![0_0m_FbTEaOTxwddVk](https://user-images.githubusercontent.com/100334542/178119768-46e0460f-d10e-4a0a-bedc-b28a6a5afcb7.gif)
+
+![Gif_Merlim_Blogpost](https://user-images.githubusercontent.com/100334542/179733263-0e6e4e24-e0cf-4812-8f0f-5fbb32151d8b.gif)
 
 ## Introduction:
 
@@ -17,7 +18,7 @@ Individualized customer retention is tough because most firms have a large numbe
 
 Customer churn is a critical metric because it is much less expensive to retain existing customers than it is to acquire new customers.
 
-![image](https://user-images.githubusercontent.com/100334542/179591589-4aa4c943-8700-4acb-8f2d-eb0656da0ff5.png)
+![image](https://user-images.githubusercontent.com/100334542/179732781-1a8d67e3-0ab7-4ef6-a9fd-1b0a74375fda.png)
 
 #### To reduce customer churn, companies need to predict which customers are at high risk of churn.
 
@@ -152,6 +153,11 @@ Month to month contracts, absence of online security and tech support seem to be
 Interestingly, services such as Online security, streaming TV, online backup, tech support, etc. without internet connection seem to be negatively related to churn.
 
 We will explore the patterns for the above correlations below before we delve into modelling and identifying the important variables.
+
+# Machine Learning Model Evaluations and Predictions
+
+![image](https://user-images.githubusercontent.com/100334542/179732513-ce27afac-f612-4867-9af1-1b996af05ee9.png)
+
 
 ##Accuracy of the model using variouus model
 
