@@ -25,10 +25,6 @@ To detect early signs of potential churn, one must first develop a holistic view
 
 As a result, by addressing churn, these businesses may not only preserve their market position, but also grow and thrive. More customers they have in their network, the lower the cost of initiation and the larger the profit. As a result, the company's key focus for success is reducing client attrition and implementing effective retention strategy.
 
-## Data 
-
-I have used the Telco Customer Churn dataset which is available on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
-
 ## Required Libaries
 
 1.[Numpy](https://github.com/numpy/numpy)
@@ -45,7 +41,13 @@ I have used the Telco Customer Churn dataset which is available on [Kaggle](http
 
 7.[Keras](https://github.com/keras-team/keras)
 
+## Data 
+
+I have used the Telco Customer Churn dataset which is available on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
 ### The data set includes information about:
+
+![image](https://user-images.githubusercontent.com/100334542/179705384-62c233f3-bd3c-41c6-a799-8143c9843ef5.png)
 
 **1.Customers who left within the last month** – the column is called Churn
 
@@ -56,6 +58,26 @@ I have used the Telco Customer Churn dataset which is available on [Kaggle](http
 **4.Demographic info about customers** – gender, age range, and if they have partners and dependents
         
 #### The target the we will use to guide the exploration is Churn
+
+### Visualize missing values
+
+![image](https://user-images.githubusercontent.com/100334542/179708104-e924c011-8cff-4645-9b16-646a3c9a9d52.png)
+
+**Using this matrix we can very quickly find the pattern of missingness in the dataset.**
+
+From the above visualisation we can observe that it has no peculiar pattern that stands out. In fact there is no missing data.
+
+##### But on deep analysis, we can find some indirect missingness in our data (which can be in form of blankspaces) more particularly in the 'TotalCharges' column. 
+
+                     df2=df[df.TotalCharges == ' ']
+                     df2.shape
+                     
+ Writting this peice of code we can see that there are 11 missing values(blankspace) present in the TotalCharges column.
+ 
+It can also be noted that the Tenure column is 0 for these entries even though the MonthlyCharges column is not empty.
+ 
+ ![Screenshot (24)](https://user-images.githubusercontent.com/100334542/179711888-d5c22069-16c3-40c8-b026-d3514713fc1c.png)
+
 
 
 
