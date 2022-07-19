@@ -78,9 +78,6 @@ It can also be noted that the Tenure column is 0 for these entries even though t
  
  ![Screenshot (24)](https://user-images.githubusercontent.com/100334542/179711888-d5c22069-16c3-40c8-b026-d3514713fc1c.png)
 
-
-
-
 ### Get Correlation of "Churn" with other variables
 
 ![correlation (1)](https://user-images.githubusercontent.com/100334542/179714703-8390ace4-3acd-49b3-a4e1-e693b322a367.png)
@@ -91,7 +88,26 @@ Interestingly, services such as Online security, streaming TV, online backup, te
 
 We will explore the patterns for the above correlations below before we delve into modelling and identifying the important variables.
 
-### Some plotting of churn with respect to tenure,monthly charges and Senior citization
+## **Data Visualization**
+
+![Screenshot (28)](https://user-images.githubusercontent.com/100334542/179717695-101c50fe-8363-43ec-b103-41384ee67790.png)
+
+1)26.6 % of customers switched to another firm.
+2)Customers are 49.5 % female and 50.5 % male.
+
+There is negligible difference in customer percentage/ count who chnaged the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider/firm.
+
+![Screenshot (30)](https://user-images.githubusercontent.com/100334542/179720151-e64f36d8-b1c6-4374-98a3-4d21e43e9af9.png)
+
+**About 75% of customer with Month-to-Month Contract opted to move out as compared to 13% of customrs with One Year Contract and 3% with Two Year Contract.**
+
+![Screenshot (32)](https://user-images.githubusercontent.com/100334542/179721540-dbbb7b6b-227d-46fe-8d5b-37af2ffc2284.png)
+
+![newplot](https://user-images.githubusercontent.com/100334542/179721784-840cc1f2-5d5d-4d6e-80f2-cd52e1a74884.png)
+
+1.Major customers who moved out were having Electronic Check as Payment Method.
+
+2.Customers who opted for Credit-Card automatic transfer or Bank Automatic Transfer and Mailed Check as Payment Method were less likely to move out.
 
 ![image](https://user-images.githubusercontent.com/100334542/176259502-4bcf9069-6d23-40d8-9c12-5e1c35eba03a.png)
 
