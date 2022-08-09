@@ -161,13 +161,19 @@ We will explore the patterns for the above correlations below before we delve in
 
 ##Accuracy of the model using variouus model
 
-1.Logistic Regression 👉👉👉👉  0.8038379530916845
+Logistic Regression Test Accuracy: 0.8038379530916845
 
-2.SVM 👉👉👉👉 0.8045486851457001
+Decission Tree Test Accuracy: 0.7149964463397299
 
-3.RandomForest 👉👉👉👉 0.7938877043354655
+Random Forest Test Accuracy: 0.7853589196872779
 
-3.ANN 👉👉👉👉 0.78
+Naive_Bayes Test Accuracy: 0.7420042643923241
+
+KNN Test Accuracy: 0.7654584221748401
+
+SVM 👉👉👉👉 0.8045486851457001
+
+ANN 👉👉👉👉 0.78
 
 ## Conclusion
 
