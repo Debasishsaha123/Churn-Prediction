@@ -78,6 +78,10 @@ From the above visualisation we can observe that it has no peculiar pattern that
 It can also be noted that the Tenure column is 0 for these entries even though the MonthlyCharges column is not empty.
  
  ![Screenshot (24)](https://user-images.githubusercontent.com/100334542/179711888-d5c22069-16c3-40c8-b026-d3514713fc1c.png)
+ 
+ ## **Columns values**
+
+![image](https://user-images.githubusercontent.com/100334542/203642907-325ee45f-5ae8-4ab9-8548-2fed07cf13b1.png)
 
 
 ## **Data Visualization**
